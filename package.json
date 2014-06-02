@@ -1,0 +1,22 @@
+{
+  "name": "node-wolfram",
+  "version": "0.0.1",
+  "description": "NodeJS Wrapper for Wolfram Alpha API",
+  "main": "index.js",
+  "dependencies": {
+    "async": "~0.9.0",
+    "restler": "~3.2.2",
+    "xml2js": "~0.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-wolfram",
+    "wolfram-api",
+    "node-wolfram-api"
+  ],
+  "author": "Raghav",
+  "license": "MIT"
+}
