@@ -80,6 +80,12 @@ wolfram.getQuery(function(err, query) {
 
 ```
 
+Tests
+-----
+
+Install Mocha `$ npm install -g mocha`
+Run Test `$APPID = 'YOUR_APP_ID' npm test`
+
 License
 -------
 
