@@ -3,6 +3,10 @@ node-wolfram - Wolfram | Alpha API Wrapper for Node
 
 node-wolfram provides a simple API wrapper to use the Wolfram | Alpha service for NodeJS.
 
+Install
+-------
+`$ npm install wolfram-node`
+
 API
 ---
 
@@ -84,6 +88,7 @@ Tests
 -----
 
 Install Mocha `$ npm install -g mocha`
+
 Run Test `$APPID = 'YOUR_APP_ID' npm test`
 
 License
